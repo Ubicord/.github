@@ -7,6 +7,6 @@
   <h3 align="center">Ubicord Technologies</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Ubicord develops a wide variety of Mobile Applications, Desktop Applications, & more for the future of the world.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://docs.ubicord.com"><strong>Explore the docs »</strong></a>
