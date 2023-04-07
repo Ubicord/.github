@@ -5,6 +5,7 @@
   </a>
 
   <h3 align="center">Ubicord Technologies</h3>
+  ![](https://komarev.com/ghpvc/?username=Ubicord&label=Views&color=blue)
 
   <p align="center">
     Ubicord develops a wide variety of Mobile Applications, Desktop Applications, & more for the future of the world.
